@@ -1,0 +1,3 @@
+interface TimerCallback {
+    void onTimeout();
+}
